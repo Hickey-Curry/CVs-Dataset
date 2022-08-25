@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>144_shift.jpg</filename>
+	<path>D:\研究生\分类星体\myDataSet\JPEGImages\144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CVs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>326</ymin>
+			<xmax>270</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

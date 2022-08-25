@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>165_rotate150.jpg</filename>
+	<path>D:\研究生\分类星体\myDataSet\JPEGImages\165.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CVs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>345</ymin>
+			<xmax>355</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

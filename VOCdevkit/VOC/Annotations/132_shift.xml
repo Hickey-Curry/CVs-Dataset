@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>132_shift.jpg</filename>
+	<path>D:\研究生\分类星体\myDataSet\JPEGImages\132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CVs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>199</ymin>
+			<xmax>213</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

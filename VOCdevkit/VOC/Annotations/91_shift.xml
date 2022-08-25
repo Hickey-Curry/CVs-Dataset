@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>91_shift.jpg</filename>
+	<path>D:\研究生\分类星体\myDataSet\JPEGImages\91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CVs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>186</ymin>
+			<xmax>182</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>
